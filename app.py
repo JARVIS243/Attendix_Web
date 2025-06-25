@@ -454,7 +454,7 @@ def main():
 
             student_dashboard_addons(username)
 
-st.markdown("<hr style='margin-top: 40px;'>", unsafe_allow_html=True)
+st.markdown("<hr style='margin-bottom: 40px;'>", unsafe_allow_html=True)
 st.markdown("<p style='text-align:center; font-size:13px; color:gray;'>© 2025 Published by Aju Krishna</p>", unsafe_allow_html=True)
 
 if __name__ == '__main__':
