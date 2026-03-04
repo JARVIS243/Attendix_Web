@@ -1,4 +1,4 @@
-code :
+
 import streamlit as st
 import sqlite3
 import uuid
@@ -485,4 +485,5 @@ def main():
     
 if __name__ == '__main__':
     main()
+
 
